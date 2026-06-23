@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso Interativo</title>
+    <link rel="stylesheet" href="player.css">
+</head>
+<body>
+    <div id="player">
+        <img id="slide-img" src="" alt="Slide">
+        <div id="camada-gifs"></div>
+        <div id="camada-botoes"></div>
+        <audio id="audio" autoplay></audio>
+    </div>
+    <div id="controles">
+        <button onclick="anterior()">◀ Voltar</button>
+        <button onclick="proximo()">Avançar ▶</button>
+        <button onclick="reiniciar()">Reiniciar</button>
+        <button onclick="voltarMenu()">Menu</button>
+        <button onclick="voltarPortal()">Escolher Simulador</button>
+    </div>
+    <script src="player.js?v=webp_seguro_preload1"></script>
+</body>
+</html>

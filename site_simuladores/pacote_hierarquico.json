@@ -1,0 +1,139 @@
+{
+  "root_dir": "C:\\Users\\fa-tj\\Desktop\\Simulador WEB e conversores\\Simuladores GE",
+  "root_main": "Menu.pptx",
+  "arquivos": [
+    {
+      "arquivo": "ATM GE.pptx",
+      "saida": "atm_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Cervical GE.pptx",
+      "saida": "cervical_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Cotovelo GE.pptx",
+      "saida": "cotovelo_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Crânio GE.pptx",
+      "saida": "cranio_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Dorsal GE.pptx",
+      "saida": "dorsal_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Face GE.pptx",
+      "saida": "face_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Hipófise GE.pptx",
+      "saida": "hipofise_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Joelho GE.pptx",
+      "saida": "joelho_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Mastoide GE.pptx",
+      "saida": "mastoide_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Ombro GE.pptx",
+      "saida": "ombro_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Pescoço GE.pptx",
+      "saida": "pescoco_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Punho GE.pptx",
+      "saida": "punho_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Pé GE.pptx",
+      "saida": "pe_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Seios face GE.pptx",
+      "saida": "seios_face_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Tornozelo GE.pptx",
+      "saida": "tornozelo_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Tórax GE.pptx",
+      "saida": "torax_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Órbitas GE.pptx",
+      "saida": "orbitas_ge",
+      "tipo": "aula",
+      "menu_url": "../index.html",
+      "portal_url": "../index.html"
+    },
+    {
+      "arquivo": "Menu.pptx",
+      "saida": ".",
+      "tipo": "root_main",
+      "menu_url": "index.html",
+      "portal_url": "index.html"
+    }
+  ],
+  "mains_detectados": [
+    {
+      "pasta": ".",
+      "main": "Menu.pptx"
+    }
+  ],
+  "falhas": []
+}

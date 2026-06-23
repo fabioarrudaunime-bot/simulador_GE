@@ -1,0 +1,10 @@
+body { margin: 0; background: #111; overflow: hidden; font-family: Arial, sans-serif; }
+#player { position: relative; width: 100vw; height: 100vh; background: black; display: flex; justify-content: center; align-items: center; }
+#slide-img { position: absolute; max-width: 100vw; max-height: 100vh; width: auto; height: auto; user-select: none; }
+.overlay-gif, .botao-invisivel { position: absolute; }
+.overlay-gif { z-index: 5; }
+.botao-invisivel { background: rgba(255, 255, 255, 0); border: none; cursor: pointer; z-index: 10; }
+.botao-invisivel:hover { outline: 2px solid rgba(0, 180, 255, 0.45); }
+#controles { position: fixed; bottom: 15px; left: 15px; z-index: 9999; opacity: 0.20; transition: opacity 0.2s; }
+#controles:hover { opacity: 1; }
+#controles button { padding: 10px 15px; margin-right: 8px; margin-top: 6px; font-size: 15px; }

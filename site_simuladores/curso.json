@@ -1,0 +1,423 @@
+{
+  "titulo": "Tela Principal",
+  "largura": 1920,
+  "altura": 1080,
+  "slide_inicial": "slide001",
+  "menu_url": "index.html",
+  "portal_url": "index.html",
+  "slides": {
+    "slide001": {
+      "imagem": "slides/slide001.webp",
+      "tempo": 0,
+      "proximo": "slide002",
+      "botoes": [
+        {
+          "x": 597,
+          "y": 555,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 915,
+          "y": 192,
+          "largura": 151,
+          "altura": 76,
+          "destino": "slide002"
+        },
+        {
+          "x": 915,
+          "y": 283,
+          "largura": 151,
+          "altura": 60,
+          "destino": "slide003"
+        },
+        {
+          "x": 930,
+          "y": 343,
+          "largura": 106,
+          "altura": 136,
+          "destino": "slide004"
+        },
+        {
+          "x": 900,
+          "y": 578,
+          "largura": 151,
+          "altura": 318,
+          "destino": "slide005"
+        },
+        {
+          "x": 854,
+          "y": 321,
+          "largura": 76,
+          "altura": 318,
+          "destino": "slide006"
+        },
+        {
+          "x": 1051,
+          "y": 313,
+          "largura": 76,
+          "altura": 318,
+          "destino": "slide006"
+        },
+        {
+          "x": 1157,
+          "y": 132,
+          "largura": 272,
+          "altura": 60,
+          "destino_url": "cranio_ge/index.html"
+        },
+        {
+          "x": 1157,
+          "y": 222,
+          "largura": 272,
+          "altura": 60,
+          "destino_url": "seios_face_ge/index.html"
+        },
+        {
+          "x": 1157,
+          "y": 313,
+          "largura": 272,
+          "altura": 60,
+          "destino_url": "cervical_ge/index.html"
+        },
+        {
+          "x": 1157,
+          "y": 404,
+          "largura": 272,
+          "altura": 60,
+          "destino_url": "ombro_ge/index.html"
+        },
+        {
+          "x": 1157,
+          "y": 495,
+          "largura": 272,
+          "altura": 60,
+          "destino_url": "torax_ge/index.html"
+        }
+      ],
+      "gifs": [],
+      "audio": null
+    },
+    "slide002": {
+      "imagem": "slides/slide002.webp",
+      "tempo": 0,
+      "proximo": "slide003",
+      "botoes": [
+        {
+          "x": 597,
+          "y": 555,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 960,
+          "y": 419,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 839,
+          "y": 135,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "cranio_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 182,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "hipofise_ge/index.html"
+        },
+        {
+          "x": 841,
+          "y": 225,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "atm_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 275,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "orbitas_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 321,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "mastoide_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 366,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "seios_face_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 411,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "face_ge/index.html"
+        },
+        {
+          "x": 748,
+          "y": 616,
+          "largura": 348,
+          "altura": 30,
+          "destino": "slide001"
+        },
+        {
+          "x": 1610,
+          "y": 948,
+          "largura": 257,
+          "altura": 76,
+          "destino": "slide001"
+        }
+      ],
+      "gifs": [],
+      "audio": null
+    },
+    "slide003": {
+      "imagem": "slides/slide003.webp",
+      "tempo": 0,
+      "proximo": "slide004",
+      "botoes": [
+        {
+          "x": 597,
+          "y": 555,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 960,
+          "y": 419,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 839,
+          "y": 132,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "cranio_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 230,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "atm_ge/index.html"
+        },
+        {
+          "x": 748,
+          "y": 616,
+          "largura": 348,
+          "altura": 30,
+          "destino": "slide001"
+        },
+        {
+          "x": 1610,
+          "y": 948,
+          "largura": 257,
+          "altura": 76,
+          "destino": "slide001"
+        }
+      ],
+      "gifs": [],
+      "audio": null
+    },
+    "slide004": {
+      "imagem": "slides/slide004.webp",
+      "tempo": 0,
+      "proximo": "slide005",
+      "botoes": [
+        {
+          "x": 597,
+          "y": 555,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 960,
+          "y": 419,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 839,
+          "y": 132,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "torax_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 222,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "atm_ge/index.html"
+        },
+        {
+          "x": 748,
+          "y": 616,
+          "largura": 348,
+          "altura": 30,
+          "destino": "slide001"
+        },
+        {
+          "x": 1610,
+          "y": 948,
+          "largura": 257,
+          "altura": 76,
+          "destino": "slide001"
+        }
+      ],
+      "gifs": [],
+      "audio": null
+    },
+    "slide005": {
+      "imagem": "slides/slide005.webp",
+      "tempo": 0,
+      "proximo": "slide006",
+      "botoes": [
+        {
+          "x": 597,
+          "y": 555,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 960,
+          "y": 419,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 839,
+          "y": 132,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "joelho_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 222,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "tornozelo_ge/index.html"
+        },
+        {
+          "x": 748,
+          "y": 616,
+          "largura": 348,
+          "altura": 30,
+          "destino": "slide001"
+        },
+        {
+          "x": 839,
+          "y": 442,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "tornozelo_ge/index.html"
+        },
+        {
+          "x": 1610,
+          "y": 948,
+          "largura": 257,
+          "altura": 76,
+          "destino": "slide001"
+        }
+      ],
+      "gifs": [],
+      "audio": null
+    },
+    "slide006": {
+      "imagem": "slides/slide006.webp",
+      "tempo": 0,
+      "proximo": "slide007",
+      "botoes": [
+        {
+          "x": 597,
+          "y": 555,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 960,
+          "y": 419,
+          "largura": 76,
+          "altura": 91,
+          "destino": "slide002"
+        },
+        {
+          "x": 839,
+          "y": 132,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "ombro_ge/index.html"
+        },
+        {
+          "x": 839,
+          "y": 230,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "cotovelo_ge/index.html"
+        },
+        {
+          "x": 748,
+          "y": 616,
+          "largura": 348,
+          "altura": 30,
+          "destino": "slide001"
+        },
+        {
+          "x": 839,
+          "y": 313,
+          "largura": 484,
+          "altura": 38,
+          "destino_url": "punho_ge/index.html"
+        },
+        {
+          "x": 1610,
+          "y": 948,
+          "largura": 257,
+          "altura": 76,
+          "destino": "slide001"
+        }
+      ],
+      "gifs": [],
+      "audio": null
+    },
+    "slide007": {
+      "imagem": "slides/slide007.webp",
+      "tempo": 0,
+      "proximo": null,
+      "botoes": [
+        {
+          "x": 1610,
+          "y": 948,
+          "largura": 257,
+          "altura": 76,
+          "destino": "slide001"
+        }
+      ],
+      "gifs": [],
+      "audio": null
+    }
+  }
+}
